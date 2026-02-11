@@ -1,0 +1,14 @@
+{
+  "name": "lochagos-voice",
+  "version": "1.0.0",
+  "description": "Lochagos Voice - ElevenLabs Conversational AI Phone System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "call": "node call.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "dotenv": "^16.4.0"
+  }
+}
